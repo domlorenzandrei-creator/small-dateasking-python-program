@@ -6,6 +6,7 @@ Date Invitation Script
 A small Python terminal program that asks someone out using an interactive conversation.
 The script greets the person, asks if they want to go on a date, and changes its response based on the user’s input.
 
+
 How it works:
 
 The program prints a greeting.
@@ -13,6 +14,7 @@ It asks if the person wants to go on a date.
 If the answer is yes, it asks about a suggested place and date.
 If the answer is no, it prints a sad response.
 If the input is not y or n, it asks the user to enter a valid answer.
+
 
 Example flow:
 
@@ -37,12 +39,15 @@ Getting user input from the terminal
 
 Basic program flow and nesting conditions
 
+
 Requirements:
 
 Python 3
 
+
 How to run:
 python project.py
+
 
 Possible improvements:
 
